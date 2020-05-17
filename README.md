@@ -131,3 +131,11 @@
 >> 프로그래머스 레벨 1,2
 >> 백준 클래스 3
 >> 
+
+2020년 5월 17일
+>> 프로그래머스 sum,max,min 끝
+>> 프로그래머스 레벨 1 진행중
+>> 달력문제 풀때 중요한 거 Total day일과 시작일 
+>> String.join() 사용법
+>> Collections.reverse(Arrays.asList(arr))
+>> s = "abcde"를 String[] arr = s.split("");으로 분리가능
