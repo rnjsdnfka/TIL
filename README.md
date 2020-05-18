@@ -139,3 +139,7 @@
 >> String.join() 사용법
 >> Collections.reverse(Arrays.asList(arr))
 >> s = "abcde"를 String[] arr = s.split("");으로 분리가능
+
+2020년 5월 17일
+>> 후기 많이 찾아보기
+>> 백준 그래프
