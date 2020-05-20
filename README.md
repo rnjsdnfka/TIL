@@ -158,3 +158,4 @@
 >> 오름차순 정렬이 아닌 내림차순 정렬법 (JAVA)
 >>Arrays.sort(array, Collections.reverseOrder()); char[]은 안됨.. String[] arr = input.split(""); 활요할하기
 >> 입력이 n인데 int가 아닌 long이다 ? String[] array = Long.toString(n).split("");
+>> 출처 https://udud0510.tistory.com/48
