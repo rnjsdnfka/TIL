@@ -153,3 +153,8 @@
 >> 백준인강 BFS
 >> 백준 그래프
 >> split("") 공백없는것 - > char형보단 string 1개씩저장하며 사용도 해보기
+
+2020년 5월 20일
+>> 오름차순 정렬이 아닌 내림차순 정렬법 (JAVA)
+>>Arrays.sort(array, Collections.reverseOrder()); char[]은 안됨.. String[] arr = input.split(""); 활요할하기
+>> 입력이 n인데 int가 아닌 long이다 ? String[] array = Long.toString(n).split("");
