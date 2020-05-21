@@ -159,3 +159,8 @@
 >>Arrays.sort(array, Collections.reverseOrder()); char[]은 안됨.. String[] arr = input.split(""); 활요할하기
 >> 입력이 n인데 int가 아닌 long이다 ? String[] array = Long.toString(n).split("");
 >> 출처 https://udud0510.tistory.com/48
+
+2020년 5월 21일
+>> 프로그래머스 레벨1 완료
+>> 레벨2하기
+>> 백준은 골드 좀 풀기
