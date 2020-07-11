@@ -37,6 +37,7 @@ github io 만들기
 
 그림으로 배우는 네트워크원리
 
-Spring Vue DB공ㅂ
-ㅜ
+Spring Vue DB공부
+
+mybatis 와 Spring, Vue 연결하기.
 
