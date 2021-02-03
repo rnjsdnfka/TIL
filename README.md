@@ -1,4 +1,10 @@
+# 2021.02.03
+## TO DO LIST
+### HTML, JS
+- 클론코딩
 
+<details markdown="1">
+<summary> ~ 2020</summary>
 30 60 90 120 
 
 순열 조합 외우기 끝
