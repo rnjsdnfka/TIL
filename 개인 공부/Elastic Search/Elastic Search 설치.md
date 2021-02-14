@@ -35,3 +35,7 @@ $ curl http://localhost:9200
 ## bin/kibana 실행과 같다.
 $ /Users/user/Desktop/ES/kibana-7.11.0-darwin-x86_64/bin/kibana ; exit
 ```
+
+
+
+    "build_snapshot" : false,
