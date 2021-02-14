@@ -2,6 +2,11 @@
 ## TO DO LIST
 ### HTML, JS
 - 클론코딩
+# 2021.02.14
+## Elastic Search
+- 단일 노드로 이뤄진 일래스틱 클러스터 구성 [설치](https://www.elastic.co/kr/downloads/elasticsearch)
+- bin/elasticsearch 실행후 http://localhost:9200
+
 
 <details markdown="1">
 <summary> ~ 2020</summary>
